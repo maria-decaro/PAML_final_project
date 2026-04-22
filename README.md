@@ -11,6 +11,7 @@ Three models were compared based on f1 score: logistic regression, SVM and Naive
 
 ## Set Up to run Streamlit
 cd Diametrics
+
 streamlit run Home.py
 
 
