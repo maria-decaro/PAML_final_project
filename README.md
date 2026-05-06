@@ -10,7 +10,7 @@ Three models were compared based on f1 score: logistic regression, SVM and Naive
 3. data_oversampling.csv (Over sampled dataset)
 
 ## Set Up to run Streamlit
-cd Diametrics
+cd DiametricsFinal
 
 streamlit run Home.py
 
